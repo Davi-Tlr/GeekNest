@@ -8,3 +8,4 @@
 
   Estou em período de provas na faculdade e tô focando bastante em python pra depois ver sql e finalmente aproveitar essas férias de fim de ano para ver conceitos de Design, Javascript
   bibliotecas e frameworks relacionados à Web.
+link do site: https://geeknest.netlify.app/
